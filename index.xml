@@ -23,17 +23,17 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <title-group>
-<article-title>La Palma Earthquakes</article-title>
+<article-title>La Palma Earthquakes and Testing</article-title>
 </title-group>
 
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
 <contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
 <name>
-<surname>Purves</surname>
-<given-names>Steve</given-names>
+<surname>Simon</surname>
+<given-names></given-names>
 </name>
-<string-name>Steve Purves</string-name>
+<string-name>Simon</string-name>
 
 <email>steve@curvenote.com</email>
 <role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
@@ -133,7 +133,7 @@ Nacional (IGN). …</p>
   <inline-formula><alternatives>
   <tex-math><![CDATA[x]]></tex-math>
   <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi>x</mml:mi></mml:math></alternatives></inline-formula>
-  can be modeled by a Poisson distribution</p>
+  can be modeled by a Normal distribution</p>
   <p><styled-content id="eq-poisson"><disp-formula><alternatives>
   <tex-math><![CDATA[
   p(x) = \frac{e^{-\lambda} \lambda^{x}}{x !}
@@ -250,16 +250,16 @@ Nacional (IGN). …</p>
 <sub-article article-type="notebook" id="nb-8-nb-article">
 <front-stub>
 <title-group>
-<article-title>La Palma Earthquakes</article-title>
+<article-title>La Palma Earthquakes and Testing</article-title>
 </title-group>
 <contrib-group>
 <contrib contrib-type="author" corresp="yes">
 <contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
 <name>
-<surname>Purves</surname>
-<given-names>Steve</given-names>
+<surname>Simon</surname>
+<given-names></given-names>
 </name>
-<string-name>Steve Purves</string-name>
+<string-name>Simon</string-name>
 
 <email>steve@curvenote.com</email>
 <role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
@@ -351,7 +351,7 @@ avg_years_between_eruptions</code>
   <inline-formula><alternatives>
   <tex-math><![CDATA[x]]></tex-math>
   <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi>x</mml:mi></mml:math></alternatives></inline-formula>
-  can be modeled by a Poisson distribution</p>
+  can be modeled by a Normal distribution</p>
   <p><styled-content id="eq-poisson-nb-article"><disp-formula><alternatives>
   <tex-math><![CDATA[
   p(x) = \frac{e^{-\lambda} \lambda^{x}}{x !}
